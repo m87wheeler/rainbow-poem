@@ -3,6 +3,7 @@ The Rainbow
 Purple Pink
 Orange
 Blue
+Yellow
 Red
 Green
 These are the colours 
